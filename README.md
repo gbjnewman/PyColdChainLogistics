@@ -1,3 +1,8 @@
+# This mod is a fork of the original Cold Chain Logistics(Fridge) by LightningMaster.  
+It exists so I can play my pyhard game with refrigeration.  The original mod didn't work out of the box.  Plus I plan to change it up a bit.
+
+
+# ORIGINAL README
 # Fridge
 
 ## Description
