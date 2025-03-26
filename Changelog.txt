@@ -1,4 +1,15 @@
----------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------
+Version: 0.2.2
+  Categories:
+    - Bug Fixes, Modifications
+  Date: 2025-3-26:
+  Changes:
+    - Bug Fixes:
+      - fixed science pack mismatch that made the original version of this mod not work with pyanodoons
+    - Modifications:
+      - modified the original mod to work as this new mod
+-----------------------------------------------------------------------------------------------
 Version: 0.2.1
   Categories:
     - Bug Fixes, Modifications
