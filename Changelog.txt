@@ -1,12 +1,15 @@
 
 -------------------------------------------------------------------------------------------------------
-Version: 0.3.3
+Version: 0.4.0
   Categories:
     - Bug Fix
+    - Modification
   Date: 2025-3-26:
   Changes:
     - Bug Fixes:
-      - fixed mod not loading due to spelling mistake in migrations file
+      - fixed function spelling mistake that prevented loading of mod
+    - Modifications:
+      - removed space-age optional dependancy
 -------------------------------------------------------------------------------------------------------
 Version: 0.3.2
   Categories:
