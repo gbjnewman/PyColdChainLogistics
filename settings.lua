@@ -24,6 +24,7 @@ data:extend({
         default_value = 20,
         minimum_value = 1,
         maximum_value = 200,
+        hidden = true,
         order = "b"
     },
     {
