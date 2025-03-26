@@ -1,5 +1,13 @@
 
 -------------------------------------------------------------------------------------------------------
+Version: 0.3.3
+  Categories:
+    - Bug Fix
+  Date: 2025-3-26:
+  Changes:
+    - Bug Fixes:
+      - fixed mod not loading due to spelling mistake in migrations file
+-------------------------------------------------------------------------------------------------------
 Version: 0.3.2
   Categories:
     - Bug Fixes, Modifications
