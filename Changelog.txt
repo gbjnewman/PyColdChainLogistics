@@ -1,5 +1,12 @@
 
 -------------------------------------------------------------------------------------------------------
+Version: tba
+  Date: tba
+  Bug Fix:
+  Modification:
+  Deprecated:
+    - Removed compatibility layer for loading old saves that relied on the original mod with Space Age support
+-------------------------------------------------------------------------------------------------------
 Version: 0.4.0
   Categories:
     - Bug Fix
